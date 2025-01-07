@@ -1,6 +1,6 @@
-# Welcome, guys!!!
+# Welcome, guys !
 
-My name is Arthur, C++ junior developer
+My name is Arthur, C++ junior developer (student)
 
 
 ## 🛠 Skills
