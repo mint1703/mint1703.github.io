@@ -1,4 +1,4 @@
-# Welcome, guys !!!
+# Welcome, guys !
 
 My name is Arthur, C++ junior developer (student)
 
